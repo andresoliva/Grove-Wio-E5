@@ -5,5 +5,5 @@ This example was made based on SeedStudio original example (https://wiki.seeedst
   &emsp; -Tested with Arduino 1.8.x IDE.\
   &emsp; -Example fully works with LoRa Gateways.
 #### Advanced example:
-If you are interested in a more advanced application or use of this module, an advanced example version will be released in the following weeks in another repository
+If you are interested in a more complex application or use of the Grove-Wio-E5 module, an advanced example version will be released in the following weeks in another repository.
 ## Hardware Setup:
