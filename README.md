@@ -7,3 +7,8 @@ This example was made based on SeedStudio's original example (https://wiki.seeed
 #### Advanced example:
 If you are interested in a more complex application or use of the Grove-Wio-E5 module, an advanced example version will be released in the following weeks in another repository.
 ## Hardware Setup:
+This project uses the Arduino Nano 33 BLE Sense board (it works with any of the revisions of this board)\
+If you have a Grove shield (https://wiki.seeedstudio.com/Grove_System/#how-to-connect-grove-to-your-board),
+then just connect your Arduino Nano 33 BLE to the shield and then plug your Grove-Wio-E5 into the UART slot of the Shield\
+If you don't have any Grove Shield, here is a picture of how to connect the board directly:
+
