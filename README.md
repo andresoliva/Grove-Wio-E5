@@ -4,4 +4,5 @@ This example was made based on SeedStudio original example (https://wiki.seeedst
 #### Notes:
   &emsp; -Tested with Arduino 1.8.x IDE. \
   &emsp; -Example fully works with LoRa Gateways \
-If you are interested in a more advanced application, an advance version will be released in the following weeks in another repository
+#### Advance example:
+If you are interested in a more advanced application or use of this module, an advanced example version will be released in the following weeks in another repository
