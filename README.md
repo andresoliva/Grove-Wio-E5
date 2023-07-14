@@ -1,4 +1,4 @@
-d# Grove-Wio-E5 Basic example
+# Grove-Wio-E5 Basic example
 Basic Arduino-coded example of Seed Studio module Grove Wio E5, which uses the system on chip STM32WLE5JC from STM.\
 This example was made based on Seed Studio's original example (https://wiki.seeedstudio.com/Grove_LoRa_E5_New_Version) with a few modifications in order to properly work with Arduino Nano 33 BLE Sense board (https://docs.arduino.cc/hardware/nano-33-ble-sense).
 #### Notes:
