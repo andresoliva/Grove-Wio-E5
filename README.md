@@ -6,7 +6,7 @@ This example was made based on Seed Studio's original example (https://wiki.seee
   * Example fully works with LoRa Gateways.
   * All the parts not mentioned in this current "README" goes as listed in the original Seed Studio's original example
 #### Advanced example:
-If you are interested in a more complex application or use of the Grove-Wio-E5 module, an advanced example version will be released in the following weeks in another repository.
+If you are interested in a more complex application or use of the Grove-Wio-E5 module, check the following repository for a library fully compatible with this LoRa module: [https://github.com/andresoliva/LoRa-E5/](https://github.com/andresoliva/LoRa-E5/).
 ## Hardware Setup:
 This project uses the Arduino Nano 33 BLE Sense board (it works with any of the revisions of this board)\
 If you have a Grove shield (https://wiki.seeedstudio.com/Grove_System/#how-to-connect-grove-to-your-board),
